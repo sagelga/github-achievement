@@ -7,7 +7,7 @@ This visibility is on by default, and you can opt out on your [Profile Settings]
 
 > **Note**<br/>
 > This repository is a community effort, and not affiliated with GitHub.<br/>
-> If you discovered new Achievement(s), please kindly edit this README and create a Pull Request.
+> If you discovered new Achievement(s), please kindly [edit this README](https://github.com/sagelga/github-achievement-cheatsheet/edit/main/README.md) and create a Pull Request.
 
 ---
 
