@@ -63,7 +63,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 > Contributed to [selected repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) that powered [Mars 2020 project](https://github.com/readme/featured/nasa-ingenuity-helicopter).
 
-## Contributors
+## Contributor
 <a href="https://github.com/sagelga/github-achievement-cheatsheet/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sagelga/github-achievement-cheatsheet" />
 </a>
