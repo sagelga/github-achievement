@@ -1,16 +1,17 @@
 <p align="center"><img src="./img/pair-extraordinare/pair-extraordinaire-default.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-default.png" height="50px" width="50px"><img src="./img/quickdraw/quickdraw-default.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-default.png" height="50px" width="50px"><img src="./img/yolo/yolo-default.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-default.png" height="50px" width="50px"><img src="./img/public-sponsor/public-sponsor-default.png" height="50px" weight="50px"><img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="50px" weight="50px"><img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="50px" weight="50px">
-
-# GitHub Achievements Cheatsheet
-a complete How-to-get achievement badge for your profile!
 </p >
 
-A GitHub Achievement is an achievement for users to earn profile badges.
-You can show off your hard-earned badge to the public by visiting your profile on `github.com/{username}`.
-Achievement visibility is public by default, and you can opt out from showing everywhere on your [Profile Settings](https://github.com/settings). Read the [instructions here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements)
+<h1 align="center">GitHub Achievements Cheatsheet</h1>
+<p align="center">a complete How-to-get achievement badge for your profile!</p>
+
+A GitHub Achievement is an achievement features for GitHub users to earn profile badges by completing a following objectives.
+Your hard-earned (or a fluke) badge is visible to the public by default on your profile page `github.com/{your_username}`.
+
+If you wish to hide your achievements (which it is enabled by default), go to your [Profile Settings](https://github.com/settings) and untick "Show Achievements on my profile" to hide every achivement badge. (Read the [instructions here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements))
 
 > **Note**<br/>
 > This repository is a community effort, and not affiliated with GitHub.<br/>
-> If you discovered new Achievement(s), please kindly [edit this README](https://github.com/sagelga/github-achievement-cheatsheet/edit/main/README.md) and create a Pull Request.
+> If you discovered new Achievement(s), please kindly contribute by [editing this README](https://github.com/sagelga/github-achievement-cheatsheet/edit/main/README.md).
 
 ---
 
