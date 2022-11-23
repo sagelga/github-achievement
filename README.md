@@ -1,4 +1,4 @@
-<p align="center"><img src="./img/pair-extraordinare/pair-extraordinaire-default.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-default.png" height="50px" width="50px"><img src="./img/quickdraw/quickdraw-default.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-default.png" height="50px" width="50px"><img src="./img/yolo/yolo-default.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-default.png" height="50px" width="50px"><img src="./img/public-sponsor/public-sponsor-default.png" height="50px" weight="50px"><img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="50px" weight="50px"><img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="50px" weight="50px">
+<p align="center"><img src="./img/pair-extraordinare/pair-extraordinaire-default.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-default.png" height="50px" width="50px"><img src="./img/quickdraw/quickdraw-default.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-default.png" height="50px" width="50px"><img src="./img/yolo/yolo-default.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-default.png" height="50px" width="50px"><img src="./img/public-sponsor/public-sponsor-default.png" height="50px" width="50px"><img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="50px" width="50px"><img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="50px" width="50px">
 </p >
 
 <h1 align="center">GitHub Achievements Cheatsheet</h1>
@@ -79,20 +79,20 @@ also available in Bronze, Silver, and Gold achievement.
 - 16 Accepted Answers in GitHub Discussions
 - 32 Accepted Answers in GitHub Discussions
 
-<img src="./img/public-sponsor/public-sponsor-default.png" height="75px" weight="75px">
+<img src="./img/public-sponsor/public-sponsor-default.png" height="75px" width="75px">
 
 ### Public Sponsor
 > Sponsor any project using GitHub Sponsor.
 
 ## Badges
 
-<img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="75px" weight="75px">
+<img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="75px" width="75px">
 
 ### Arctic Code Vault Contributor
 
 > Contributed to repositories that are qualified to [Arctic Code Vault Archival project](https://archiveprogram.github.com/).
 
-<img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="75px" weight="75px">
+<img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="75px" width="75px">
 
 ### Mars 2020 Contributor
 
