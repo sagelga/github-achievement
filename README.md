@@ -53,6 +53,8 @@ also available in Bronze, Silver, and Gold achievement.
 ### Pull Shark
 > Open a Pull Request and get merged {this.amount}.
 
+> Only merged Pull Requests are counted.
+
 also available in Bronze, Silver, and Gold achievement.
 
 <img src="./img/pull-shark/pull-shark-bronze.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-silver.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-gold.png" height="50px" width="50px">
