@@ -17,8 +17,7 @@ If you wish to hide your achievements, you can do so by going to your [Profile S
 
 ## Achievement
 
-<img src="./img/open-sourcerer/open-sourcerer-default.png" height="75px" width="75px">
-<img src="./img/open-sourcerer/open-sourcerer-bronze.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-silver.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-gold.png" height="50px" width="50px">
+<img src="./img/open-sourcerer/open-sourcerer-default.png" height="75px" width="75px"><img src="./img/open-sourcerer/open-sourcerer-bronze.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-silver.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-gold.png" height="50px" width="50px">
 
 ### Open Sourcerer
 
@@ -30,8 +29,7 @@ also available in Bronze, Silver, and Gold achievement.
 - ???
 - ???
 
-<img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-default.png" height="75px" width="75px">
-<img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-bronze.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-silver.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png" height="50px" width="50px">
+<img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-default.png" height="75px" width="75px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-bronze.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-silver.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png" height="50px" width="50px">
 
 ### Heart of your sleeve
 
@@ -43,8 +41,7 @@ also available in Bronze, Silver, and Gold achievement.
 - ???
 - ???
 
-<img src="./img/pair-extraordinaire/pair-extraordinaire-default.png" height="75px" width="75px">
-<img src="./img/pair-extraordinaire/pair-extraordinaire-bronze.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-silver.png" height="50px" width="50px"><img src="./img/pair-extraordinare/pair-extraordinaire-gold.png" height="50px" width="50px">
+<img src="./img/pair-extraordinaire/pair-extraordinaire-default.png" height="75px" width="75px"><img src="./img/pair-extraordinaire/pair-extraordinaire-bronze.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-silver.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-gold.png" height="50px" width="50px">
 
 ### Pair Extraordinaire
 
@@ -56,8 +53,7 @@ also available in Bronze, Silver, and Gold achievement.
 - 24 co-authored Pull Requests
 - 48 co-authored Pull Requests
 
-<img src="./img/starstruck/starstruck-default.png" height="75px" width="75px">
-<img src="./img/starstruck/starstruck-bronze.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-silver.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-gold.png" height="50px" width="50px">
+<img src="./img/starstruck/starstruck-default.png" height="75px" width="75px"><img src="./img/starstruck/starstruck-bronze.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-silver.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-gold.png" height="50px" width="50px">
 
 ### Starstruck
 
@@ -75,8 +71,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 > Closed an issue or a pull request within 5 minutes of opening
 
-<img src="./img/pull-shark/pull-shark-default.png" height="75px" width="75px">
-<img src="./img/pull-shark/pull-shark-bronze.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-silver.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-gold.png" height="50px" width="50px">
+<img src="./img/pull-shark/pull-shark-default.png" height="75px" width="75px"><img src="./img/pull-shark/pull-shark-bronze.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-silver.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-gold.png" height="50px" width="50px">
 
 ### Pull Shark
 
@@ -94,8 +89,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 > Merge a Pull Request without reviewing it.
 
-<img src="./img/galaxy-brain/galaxy-brain-default.png" height="75px" width="75px">
-<img src="./img/galaxy-brain/galaxy-brain-bronze.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-silver.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-gold.png" height="50px" width="50px">
+<img src="./img/galaxy-brain/galaxy-brain-default.png" height="75px" width="75px"><img src="./img/galaxy-brain/galaxy-brain-bronze.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-silver.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-gold.png" height="50px" width="50px">
 
 ### Galaxy Brain
 
