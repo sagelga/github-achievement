@@ -2,20 +2,20 @@
 </p >
 
 <h1 align="center">GitHub Achievements Cheatsheet</h1>
-<p align="center">a complete How-to-get achievement badge for your profile!</p>
+<p align="center">a complete How-to-get achievements badge for your GitHub profile!</p>
 
-GitHub Achievements are special profile badges that can be earned by completing certain objectives. These objectives can range from writing code, to participating in events, to contributing to open source projects. Earning a badge is a great way to demonstrate your dedication and skill, as well as to celebrate your successes.
+[GitHub Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) are special profile badges that can be earned by completing certain objectives. These objectives can range from writing code, to participating in events, to contributing to open source projects. Earning a badge is a great way to demonstrate your dedication and skill, as well as to celebrate your successes. This repository will catalize you to understand and acheive those Achievements.
 
-By completing certain objectives, users can earn profile badges through GitHub Achievement. These badges are visible to the public on your profile page (by default, at [github.com/{your_username}?tab=achievements](http://github.com/%7Byour_username%7D?tab=achievements)). This repository is designed to help you understand how to earn these badges, and what you can do to maximize your chances of success.
+By completing certain objectives, users can earn profile badges through GitHub Achievement. These badges are visible to the public on your profile page (by default at [github.com/{your_username}?tab=achievements](http://github.com/sagelga?tab=achievements)). This repository is designed to help you understand how to earn these badges, and what you can do to maximize your chances of success.
 
-If you wish to hide your achievements, you can do so by going to your [Profile Settings](https://github.com/settings) and unchecking "Show Achievements on my profile". For more information, refer to the [instructions here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements).
+If you wish to hide your achievements, you can do so by going to your [Profile Settings](https://github.com/settings) and uncheck *Show Achievements on my profile*. For a full setting instructions, refer to the [Changing the visibility of Achievements instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements).
 
 > **Note**<br/>
 > This repository is a community effort and is not affiliated with GitHub. If you discover new Achievements, please contribute by editing this README.
 
 ---
 
-## Achievement
+## Achievements List
 
 <img src="./img/open-sourcerer/open-sourcerer-default.png" height="75px" width="75px"><img src="./img/open-sourcerer/open-sourcerer-bronze.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-silver.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-gold.png" height="50px" width="50px">
 
@@ -102,8 +102,8 @@ also available in Bronze, Silver, and Gold achievement.
 - 32 Accepted Answers in GitHub Discussions
 
 ## Badges
-
-Badges now cannot be earned by a new GitHub user. This badge-giving system was superseeded by Acheivement badge.
+> **Warning**<br>
+> Badges now cannot be earned by a new GitHub user. This badge-giving system was superseeded by Acheivements.
 
 <img src="./img/public-sponsor/public-sponsor-default.png" height="75px" weight="75px">
 
