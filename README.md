@@ -63,7 +63,7 @@ also available in Bronze, Silver, and Gold achievement.
 > How to get: Gain {this.amount} of stars in a repository.
 
 also available in Bronze, Silver, and Gold achievement.
-
+- 16 stars gained in a single rpository
 - 128 Stars gained in a single repository
 - 512 Stars gained in a single repository
 - 4096 Stars gained in a single repository
@@ -81,7 +81,7 @@ also available in Bronze, Silver, and Gold achievement.
 > How to get: Open a Pull Request and get merged {this.amount}. Only merged Pull Requests are counted.
 
 also available in Bronze, Silver, and Gold achievement.
-
+- 2 Pull Requests merged
 - 16 Pull Requests merged
 - 128 Pull Requests merged
 - 1024 Pull Requests merged
@@ -99,7 +99,7 @@ also available in Bronze, Silver, and Gold achievement.
 > How to get: Answers get accepted {this.amount} in Discussion.
 
 also available in Bronze, Silver, and Gold achievement.
-
+- 2 Accepted Answers in Github Discussions
 - 8 Accepted Answers in GitHub Discussions
 - 16 Accepted Answers in GitHub Discussions
 - 32 Accepted Answers in GitHub Discussions
@@ -117,13 +117,13 @@ also available in Bronze, Silver, and Gold achievement.
 <img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="75px" weight="75px">
 
 ### Arctic Code Vault Contributor
-
+#### This is no-more Available 
 > How to get: Contributed to repositories that are qualified to [Arctic Code Vault Archival project](https://archiveprogram.github.com/).
 
 <img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="75px" weight="75px">
 
 ### Mars 2020 Contributor
-
+#### This is no-more Available 
 > How to get: Contributed to [selected repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) that powered [NASA Mars 2020 project](https://github.com/readme/featured/nasa-ingenuity-helicopter).
 
 ## Contributors
