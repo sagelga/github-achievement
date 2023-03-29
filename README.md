@@ -63,7 +63,7 @@ also available in Bronze, Silver, and Gold achievement.
 > How to get: Gain {this.amount} of stars in a repository.
 
 also available in Bronze, Silver, and Gold achievement.
-- 16 stars gained in a single rpository
+- 16 stars gained in a single repository
 - 128 Stars gained in a single repository
 - 512 Stars gained in a single repository
 - 4096 Stars gained in a single repository
