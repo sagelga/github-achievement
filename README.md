@@ -10,7 +10,7 @@ By completing certain objectives, users can earn profile badges through GitHub A
 
 If you wish to improve this repository, please create a [pull request](https://github.com/sagelga/github-achievement-cheatsheet/pulls) or [create an issue](https://github.com/sagelga/github-achievement-cheatsheet/issues). Your work will be appreciated.
 
-If you wish to hide your achievements, you can do so by going to your [Profile Settings](https://github.com/settings) and uncheck *Show Achievements on my profile*. For a full setting instructions, refer to the [Changing the visibility of Achievements instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements).
+If you wish to hide your achievements, you can do so by going to your [Profile Settings](https://github.com/settings) and uncheck _Show Achievements on my profile_. For a full setting instructions, refer to the [Changing the visibility of Achievements instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements).
 
 > **Note**<br/>
 > This repository is a community effort and is not affiliated with GitHub. If you discover new Achievements, please contribute by editing this README.
@@ -62,11 +62,13 @@ also available in Bronze, Silver, and Gold achievement.
 
 > How to get: Gain {this.amount} of stars in a repository.
 
+-   16 stars gained in a single repository
+
 also available in Bronze, Silver, and Gold achievement.
-- 16 stars gained in a single repository
-- 128 Stars gained in a single repository
-- 512 Stars gained in a single repository
-- 4096 Stars gained in a single repository
+
+-   128 Stars gained in a single repository
+-   512 Stars gained in a single repository
+-   4096 Stars gained in a single repository
 
 <img src="./img/quickdraw/quickdraw-default.png" height="75px" width="75px">
 
@@ -80,11 +82,13 @@ also available in Bronze, Silver, and Gold achievement.
 
 > How to get: Open a Pull Request and get merged {this.amount}. Only merged Pull Requests are counted.
 
+-   2 Pull Requests merged
+
 also available in Bronze, Silver, and Gold achievement.
-- 2 Pull Requests merged
-- 16 Pull Requests merged
-- 128 Pull Requests merged
-- 1024 Pull Requests merged
+
+-   16 Pull Requests merged
+-   128 Pull Requests merged
+-   1024 Pull Requests merged
 
 <img src="./img/yolo/yolo-default.png" height="75px" width="75px">
 
@@ -98,11 +102,13 @@ also available in Bronze, Silver, and Gold achievement.
 
 > How to get: Answers get accepted {this.amount} in Discussion.
 
+-   2 Accepted Answers in Github Discussions
+
 also available in Bronze, Silver, and Gold achievement.
-- 2 Accepted Answers in Github Discussions
-- 8 Accepted Answers in GitHub Discussions
-- 16 Accepted Answers in GitHub Discussions
-- 32 Accepted Answers in GitHub Discussions
+
+-   8 Accepted Answers in GitHub Discussions
+-   16 Accepted Answers in GitHub Discussions
+-   32 Accepted Answers in GitHub Discussions
 
 ## Badges
 > **Warning**<br>
@@ -117,13 +123,13 @@ also available in Bronze, Silver, and Gold achievement.
 <img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="75px" weight="75px">
 
 ### Arctic Code Vault Contributor
-#### This is no-more Available 
+
 > How to get: Contributed to repositories that are qualified to [Arctic Code Vault Archival project](https://archiveprogram.github.com/).
 
 <img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="75px" weight="75px">
 
 ### Mars 2020 Contributor
-#### This is no-more Available 
+
 > How to get: Contributed to [selected repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) that powered [NASA Mars 2020 project](https://github.com/readme/featured/nasa-ingenuity-helicopter).
 
 ## Contributors
