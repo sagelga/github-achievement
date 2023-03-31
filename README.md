@@ -1,12 +1,14 @@
 <p align="center"><img src="./img/open-sourcerer/open-sourcerer-default.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-default.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-default.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-default.png" height="50px" width="50px"><img src="./img/quickdraw/quickdraw-default.png" height="50px" width="50px"><img src="./img/pull-shark/pull-shark-default.png" height="50px" width="50px"><img src="./img/yolo/yolo-default.png" height="50px" width="50px"><img src="./img/galaxy-brain/galaxy-brain-default.png" height="50px" width="50px"><img src="./img/public-sponsor/public-sponsor-default.png" height="50px" weight="50px"><img src="./img/arctic-code-vault/arctic-code-vault-contributor-default.png" height="50px" weight="50px"><img src="./img/mars-2020-contributor/mars-2020-contributor-default.png" height="50px" weight="50px">
 </p >
 
+<div>
 <h1 align="center">GitHub Achievements Cheatsheet</h1>
 <p align="center">a complete How-to-get achievements badge for your GitHub profile!</p>
+</div>
 
 [GitHub Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) are special profile badges that can be earned by completing certain objectives. These objectives can range from writing code, participating in events, being awesome to the community, to contributing to open source projects.
 
-By completing certain objectives, users can earn profile badges through GitHub Achievement. These badges are visible to the public on your profile page (by default at [github.com/{your_username}?tab=achievements](http://github.com/sagelga?tab=achievements)). Earning a badge is a great way to demonstrate your dedication and skill, as well as to celebrate your successes. This repository are designed, and will catalize you to understand and acheive those achievements. 
+By completing certain objectives, users can earn profile badges through GitHub Achievement. These badges are visible to the public on your profile page (by default at [github.com/{your_username}?tab=achievements](http://github.com/sagelga?tab=achievements)). Earning a badge is a great way to demonstrate your dedication and skill, as well as to celebrate your successes. This repository are designed, and will catalize you to understand and acheive those achievements.
 
 If you wish to improve this repository, please create a [pull request](https://github.com/sagelga/github-achievement-cheatsheet/pulls) or [create an issue](https://github.com/sagelga/github-achievement-cheatsheet/issues). Your work will be appreciated.
 
@@ -18,6 +20,7 @@ If you wish to hide your achievements, you can do so by going to your [Profile S
 ---
 
 ## Achievements List
+
 The achievement list are ordered by their release dates.
 
 <img src="./img/open-sourcerer/open-sourcerer-default.png" height="75px" width="75px"><img src="./img/open-sourcerer/open-sourcerer-bronze.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-silver.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-gold.png" height="50px" width="50px">
@@ -28,9 +31,9 @@ The achievement list are ordered by their release dates.
 
 also available in Bronze, Silver, and Gold achievement.
 
-- ???
-- ???
-- ???
+-   ???
+-   ???
+-   ???
 
 <img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-default.png" height="75px" width="75px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-bronze.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-silver.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png" height="50px" width="50px">
 
@@ -40,9 +43,9 @@ also available in Bronze, Silver, and Gold achievement.
 
 also available in Bronze, Silver, and Gold achievement.
 
-- ???
-- ???
-- ???
+-   ???
+-   ???
+-   ???
 
 <img src="./img/pair-extraordinaire/pair-extraordinaire-default.png" height="75px" width="75px"><img src="./img/pair-extraordinaire/pair-extraordinaire-bronze.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-silver.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-gold.png" height="50px" width="50px">
 
@@ -52,9 +55,9 @@ also available in Bronze, Silver, and Gold achievement.
 
 also available in Bronze, Silver, and Gold achievement.
 
-- 10 co-authored Pull Requests
-- 24 co-authored Pull Requests
-- 48 co-authored Pull Requests
+-   10 co-authored Pull Requests
+-   24 co-authored Pull Requests
+-   48 co-authored Pull Requests
 
 <img src="./img/starstruck/starstruck-default.png" height="75px" width="75px"><img src="./img/starstruck/starstruck-bronze.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-silver.png" height="50px" width="50px"><img src="./img/starstruck/starstruck-gold.png" height="50px" width="50px">
 
@@ -105,6 +108,7 @@ also available in Bronze, Silver, and Gold achievement.
 - 32 Accepted Answers in GitHub Discussions
 
 ## Badges
+
 > **Warning**<br>
 > Badges now cannot be earned by a new GitHub user. This badge-giving system was superseeded by Acheivements.
 
