@@ -27,7 +27,7 @@ The achievement list are ordered by their release dates.
 
 ### Open Sourcerer
 
-> ???
+> How to get: User had PRs merged in multiple public repositories (Being tested)
 
 also available in Bronze, Silver, and Gold achievement.
 
@@ -39,7 +39,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 ### Heart On Your Sleeve
 
-> ???
+> How to get: React to something on GitHub with a ❤️ emoji (Being tested)
 
 also available in Bronze, Silver, and Gold achievement.
 
