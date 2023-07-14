@@ -27,25 +27,23 @@ The achievement list are ordered by their release dates.
 
 ### Open Sourcerer
 
-> ???
+> How to get: you need to make a qualifying contribution to an open source project on GitHub.
 
 also available in Bronze, Silver, and Gold achievement.
 
--   ???
--   ???
--   ???
+- The 'Open Sourcerer' achievement badges is not yet released to public GitHub users at the moment. (July 14th 2023).
+- stay tuned to the official news release by GitHub on their blog over <a href="https://github.blog/" rel="nofollow">here</a>.
 
 <img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-default.png" height="75px" width="75px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-bronze.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-silver.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png" height="50px" width="50px">
 
 ### Heart On Your Sleeve
 
-> ???
+> In order to get this badge, you need to publicly share a project on GitHub that contains a valid license and a README file
 
 also available in Bronze, Silver, and Gold achievement.
 
--   ???
--   ???
--   ???
+- The 'Heart On Your Sleeve' achievement badges is not yet released to public GitHub users at the moment. (July 14th 2023).
+- stay tuned to the official news release by GitHub on their blog over <a href="https://github.blog/" rel="nofollow">here</a>.
 
 <img src="./img/pair-extraordinaire/pair-extraordinaire-default.png" height="75px" width="75px"><img src="./img/pair-extraordinaire/pair-extraordinaire-bronze.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-silver.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-gold.png" height="50px" width="50px">
 
