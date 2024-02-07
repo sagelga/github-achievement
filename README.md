@@ -6,13 +6,13 @@
 <p align="center">a complete How-to-get achievements badge for your GitHub profile!</p>
 </div>
 
-[GitHub Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) are special profile badges that can be earned by completing certain objectives. These objectives can range from writing code, participating in events, being awesome to the community, to contributing to open source projects.
+[GitHub Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) are special profile badges that can be earned by completing certain objectives. These objectives can range from writing code, participating in events, and being awesome to the community, to contributing to open-source projects.
 
-By completing certain objectives, users can earn profile badges through GitHub Achievement. These badges are visible to the public on your profile page (by default at [github.com/{your_username}?tab=achievements](http://github.com/sagelga?tab=achievements)). Earning a badge is a great way to demonstrate your dedication and skill, as well as to celebrate your successes. This repository are designed, and will catalize you to understand and acheive those achievements.
+By completing certain objectives, users can earn profile badges through GitHub Achievement. These badges are visible to the public on your profile page (by default at [github.com/{your_username}?tab=achievements](http://github.com/sagelga?tab=achievements)). Earning a badge is a great way to demonstrate your dedication and skill and celebrate your successes. This repository is designed and will catalyze you to understand and achieve those achievements.
 
 If you wish to improve this repository, please create a [pull request](https://github.com/sagelga/github-achievement-cheatsheet/pulls) or [create an issue](https://github.com/sagelga/github-achievement-cheatsheet/issues). Your work will be appreciated.
 
-If you wish to hide your achievements, you can do so by going to your [Profile Settings](https://github.com/settings) and uncheck _Show Achievements on my profile_. For a full setting instructions, refer to the [Changing the visibility of Achievements instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements).
+If you wish to hide your achievements, you can go to your [Profile Settings](https://github.com/settings) and uncheck _Show Achievements on my profile_. For a full setting instruction, refer to the [Changing the visibility of Achievements instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements).
 
 > **Note**<br/>
 > This repository is a community effort and is not affiliated with GitHub. If you discover new Achievements, please contribute by editing this README.
@@ -21,31 +21,24 @@ If you wish to hide your achievements, you can do so by going to your [Profile S
 
 ## Achievements List
 
-The achievement list are ordered by their release dates.
+The achievement lists are ordered by their release dates.
 
 <img src="./img/open-sourcerer/open-sourcerer-default.png" height="75px" width="75px"><img src="./img/open-sourcerer/open-sourcerer-bronze.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-silver.png" height="50px" width="50px"><img src="./img/open-sourcerer/open-sourcerer-gold.png" height="50px" width="50px">
 
 ### Open Sourcerer
 
-> ???
+> Unreleased
 
-also available in Bronze, Silver, and Gold achievement.
+also available in Bronze, Silver, and Gold achievements.
 
--   ???
--   ???
--   ???
 
 <img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-default.png" height="75px" width="75px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-bronze.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-silver.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png" height="50px" width="50px">
 
 ### Heart On Your Sleeve
 
-> ???
+> Unreleased
 
-also available in Bronze, Silver, and Gold achievement.
-
--   ???
--   ???
--   ???
+also available in Bronze, Silver, and Gold achievements.
 
 <img src="./img/pair-extraordinaire/pair-extraordinaire-default.png" height="75px" width="75px"><img src="./img/pair-extraordinaire/pair-extraordinaire-bronze.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-silver.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-gold.png" height="50px" width="50px">
 
@@ -53,7 +46,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 > How to get: Co-authored in a Pull Request {this.amount} times.
 
-also available in Bronze, Silver, and Gold achievement.
+also available in Bronze, Silver, and Gold achievements.
 
 -   10 co-authored Pull Requests
 -   24 co-authored Pull Requests
@@ -67,7 +60,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 -   16 stars gained in a single repository
 
-also available in Bronze, Silver, and Gold achievement.
+also available in Bronze, Silver, and Gold achievements.
 
 -   128 Stars gained in a single repository
 -   512 Stars gained in a single repository
@@ -87,7 +80,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 -   2 Pull Requests merged
 
-also available in Bronze, Silver, and Gold achievement.
+also available in Bronze, Silver, and Gold achievements.
 
 -   16 Pull Requests merged
 -   128 Pull Requests merged
@@ -107,7 +100,7 @@ also available in Bronze, Silver, and Gold achievement.
 
 -   2 Accepted Answers in Github Discussions
 
-also available in Bronze, Silver, and Gold achievement.
+also available in Bronze, Silver, and Gold achievements.
 
 -   8 Accepted Answers in GitHub Discussions
 -   16 Accepted Answers in GitHub Discussions
@@ -116,7 +109,7 @@ also available in Bronze, Silver, and Gold achievement.
 ## Badges
 
 > **Warning**<br>
-> Badges now cannot be earned by a new GitHub user. This badge-giving system was superseeded by Acheivements.
+> Badges now cannot be earned by a new GitHub user. This badge-giving system was superseded by achievements.
 
 <img src="./img/public-sponsor/public-sponsor-default.png" height="75px" weight="75px">
 
