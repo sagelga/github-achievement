@@ -27,25 +27,25 @@ The achievement list are ordered by their release dates.
 
 ### Open Sourcerer
 
-> ???
+> Share your code openly!
 
 also available in Bronze, Silver, and Gold achievement.
 
--   ???
--   ???
--   ???
+- Foster community contributions
+- Contribute to the collective knowledge
+- Embrace collaboration
 
 <img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-default.png" height="75px" width="75px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-bronze.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-silver.png" height="50px" width="50px"><img src="./img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png" height="50px" width="50px">
 
 ### Heart On Your Sleeve
 
-> ???
+> Showcase your progress!
 
 also available in Bronze, Silver, and Gold achievement.
 
--   ???
--   ???
--   ???
+-   Display your accomplishments
+-   Flaunt your success
+-   Wear your achievements proudly
 
 <img src="./img/pair-extraordinaire/pair-extraordinaire-default.png" height="75px" width="75px"><img src="./img/pair-extraordinaire/pair-extraordinaire-bronze.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-silver.png" height="50px" width="50px"><img src="./img/pair-extraordinaire/pair-extraordinaire-gold.png" height="50px" width="50px">
 
